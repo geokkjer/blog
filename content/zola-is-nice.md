@@ -7,7 +7,7 @@ weight = 1
 tags = ["intro", "nice"]
 +++
 
-This is the top post!
+This is the top post! It seems to work too.
 
 <!-- more -->
 
