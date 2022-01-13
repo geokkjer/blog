@@ -1,3 +1,0 @@
-[submodule "path_to_submodule"] 
-  path = themes/terminimal
-  url = git@github.com:pawroman/zola-theme-terminimal.git
