@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://geokkjer.eu"
+base_url = "https://geokkjer.pages.dev"
 
 theme = "terminimal"
 
