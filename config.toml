@@ -1,11 +1,12 @@
 base_url = "https://blog.geokkjer.eu"
-title = "Sam"
+title = "Geokkjer"
 
 theme = "sam"
 
 compile_sass = true
 
 highlight_code = true
+highlight_theme = "boron"
 
 build_search_index = false
 
