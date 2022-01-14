@@ -25,10 +25,9 @@ date_format = "%a %b %e, %Y"
 home = "home"
 
 sam_menu = [
-    { text = "posts", link = "/posts" },
-    { text = "k8s", link = "/kubernetes" },
     { text = "linux", link = "/Linux" },
-    { text = "github", link = "https://github.com/geokkjer" },
+    { text = "k8s", link = "/kubernetes" }, 
+    { text = "rants", link = "/posts" },
     { text = "about", link = "/about" }
     
 ]
@@ -36,4 +35,4 @@ sam_menu = [
 sam_bottom_menu = true
 
 [extra.sam_footer]
-text = "Some footer text."
+text = "Made with Zola. Theme is Sam"
