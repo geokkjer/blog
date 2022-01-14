@@ -1,21 +1,20 @@
 base_url = "https://blog.geokkjer.eu"
-title = "Geokkjer"
+title = "geokkjer.eu"
 
 theme = "sam"
-
-compile_sass = true
-
-highlight_code = true
-highlight_theme = "boron"
-
-build_search_index = false
+build_search_index = true
 
 check_external_links = true
+compile_sass = true
 
 taxonomies = [
     { name = "tags", rss = true },
     { name = "authors", rss = true }
 ]
+
+[markdown]
+highlight_code = true
+highlight_theme = "base16-ocean-dark"
 
 [extra]
 show_word_count = true
@@ -27,8 +26,11 @@ home = "home"
 
 sam_menu = [
     { text = "posts", link = "/posts" },
-    { text = "about", link = "/about" },
-    { text = "github", link = "https://github.com/geokkjer" }
+    { text = "k8s", link = "/kubernetes" },
+    { text = "linux", link = "/Linux" },
+    { text = "github", link = "https://github.com/geokkjer" },
+    { text = "about", link = "/about" }
+    
 ]
 
 sam_bottom_menu = true

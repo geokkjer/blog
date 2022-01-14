@@ -15,6 +15,10 @@ Linux is the best, I run Arch btw. I also run NixOS and Talos on metal. In a con
 
 [linux.com](https://www.linux.com/)
 
+```rs
+let highlight = true;
+```
+
 ```yaml
 apiVersion: apps/v1
 kind: Deployment
@@ -40,7 +44,6 @@ spec:
 
 ```
 
-<!-- more -->
 
 
 
