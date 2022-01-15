@@ -26,7 +26,9 @@ home = "home"
 
 sam_menu = [
     { text = "linux", link = "/Linux" },
-    { text = "k8s", link = "/kubernetes" }, 
+    { text = "k8s", link = "/kubernetes" },
+    { text = "how-tos", link = "/how-to" },
+    { text = "security", link = "/sec" },
     { text = "rants", link = "/posts" },
     { text = "about", link = "/about" }
     
