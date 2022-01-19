@@ -1,6 +1,5 @@
 +++
 title = "How to desktop linux"
-date = 2022-01-14
 weight = 1
 
 [taxonomies]
