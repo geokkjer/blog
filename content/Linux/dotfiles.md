@@ -1,6 +1,6 @@
 +++
 title = "Dotfiles"
-weight = 1
+weight = 2
 
 [taxonomies]
 tags = ["linux", "desktop", "sway", "dotfiles"]
