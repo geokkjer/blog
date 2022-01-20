@@ -29,6 +29,7 @@ sam_menu = [
     { text = "k8s", link = "/kubernetes" },
     { text = "how-tos", link = "/how-to" },
     { text = "security", link = "/sec" },
+    { text = "code", link = "/code" },
     { text = "rants", link = "/posts" },
     { text = "about", link = "/about" }
     
