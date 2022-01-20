@@ -1,6 +1,5 @@
 +++
 title = "I like Linux and open source"
-date = 2019-02-02
 weight = 2
 
 [taxonomies]

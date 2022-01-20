@@ -1,6 +1,5 @@
 +++
 title = "Zola is nice"
-date = 2022-02-01
 weight = 1
 
 [taxonomies]
