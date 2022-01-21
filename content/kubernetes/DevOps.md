@@ -6,5 +6,20 @@ weight = 1
 tags = ["development", "devops"]
 +++
 
+Hello 
 
-![devops](devops.png)
+![DevOps](../devops.png)
+
+
+
+
+### Project status
+
+- [x] Design
+- [x] Mockups
+- [x] Development
+- [x] Unit testing
+- [ ] QA
+- [ ] Stage
+- [ ] Beta Testing
+- [ ] Production
