@@ -6,11 +6,7 @@ weight = 2
 tags = ["linux", "hello"]
 +++
 
-The intent is to blog, mostly how to style and maybe some rants about technology generally and Linux, open source and Ops specifically. 
-I am studying K8S and GitOps a the moment. 
-
-Linux is the best, I run Arch btw. I also run NixOS and Talos on metal. In a container nobody cares.
-
+Hello World! Just teting some markdown tags.
 
 [linux.com](https://www.linux.com/)
 
