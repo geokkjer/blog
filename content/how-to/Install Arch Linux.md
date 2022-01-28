@@ -1,5 +1,5 @@
 +++
-title = "How to install Ubuntu 20.04"
+title = "How to install Arch Linux"
 weight = 1
 
 [taxonomies]
@@ -9,13 +9,17 @@ tags = ["how-to", "Linux", "Arch", "beginner"]
 # Downloading the iso
 
 # Install method
-wiki
-interactive installer
-automated installer
+
+1.wiki
+
+2.interactive installer
+
+3.automated installer
 
 # Step by step ie the wiki method
 
 # The other two
 
 # Conclusion
+
 [Arch is the best](https://wiki.archlinux.org/title/arch_is_the_best)

@@ -6,7 +6,7 @@ weight = 1
 tags = ["how-to", "Linux", "git", "beginner"]
 +++
 
-# Intro what is git
+# Intro what is git ?
 
 # Installing git
 

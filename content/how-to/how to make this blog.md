@@ -12,7 +12,7 @@ This is a short walktrough of how this blog was made.
 What is a ststic site generator
 What is the spec I am looking for
 
-# Choosing static site generator
+# Choosing a static site generator
 
 There is a jungle out there, waht should you choose ?
 This time I went with feel rather than some metric. I tried a couple of the most popular ones and when I got to Zola ??I just went with that.
