@@ -3,7 +3,7 @@ title = "How to install Arch Linux"
 weight = 1
 
 [taxonomies]
-tags = ["how-to", "Linux", "Arch", "beginner"]
+tags = ["how-to", "Linux", "Arch", "beginner","intermediate"]
 +++
 
 # Downloading the iso
