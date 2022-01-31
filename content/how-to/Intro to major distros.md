@@ -8,8 +8,9 @@ tags = ["how-to", "Linux", "ubuntu", "Fedora", "Suse", "beginner"]
 # Intro
 
 Hi, 
-If you courious about Linux, and have enough intersesst to  and 
-You are in luck, the three distobutins tha I'm covering in this guide are all pretty easy to install. In fact the installers are substantially more usre friendly tham both macOS or Windows. 
+If you courious about Linux, and have enough intersesst to  and. 
+You are in luck, the three distributions that I'm covering in this guide are all pretty easy to install. In fact the installers are substantially more user friendly than both macOS or Windows.
+
 
 # Downloading the isos
 [Ubuntu](https://releases.ubuntu.com/20.04.3/ubuntu-20.04.3-desktop-amd64.iso)
