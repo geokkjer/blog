@@ -1,6 +1,6 @@
 +++
 title = "How to install Gentoo"
-weight = 1
+weight = 2
 
 [taxonomies]
 tags = ["how-to", "Linux", "Gentoo","intermediate"]

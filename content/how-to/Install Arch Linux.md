@@ -1,6 +1,6 @@
 +++
 title = "How to install Arch Linux"
-weight = 1
+weight = 2
 
 [taxonomies]
 tags = ["how-to", "Linux", "Arch", "beginner","intermediate"]

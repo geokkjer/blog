@@ -1,6 +1,6 @@
 +++
 title = "How to install NixOS"
-weight = 1
+weight = 2
 
 [taxonomies]
 tags = ["how-to", "Linux", "Nix", "NixOS","intermediate"]

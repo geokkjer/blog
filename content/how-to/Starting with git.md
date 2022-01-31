@@ -1,6 +1,6 @@
 +++
 title = "Starting with git"
-weight = 1
+weight = 2
 
 [taxonomies]
 tags = ["how-to", "Linux", "git", "beginner"]
