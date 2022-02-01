@@ -1,0 +1,38 @@
+base_url = "https://blog.geokkjer.eu"
+title = "geokkjer.eu"
+
+theme = "sam"
+build_search_index = true
+
+check_external_links = true
+compile_sass = true
+
+taxonomies = [
+    { name = "tags", rss = true },
+    { name = "authors", rss = true }
+]
+
+[markdown]
+highlight_code = true
+highlight_theme = "base16-ocean-dark"
+
+[extra]
+show_word_count = true
+show_reading_time = true
+
+date_format = "%a %b %e, %Y"
+
+home = "home"
+
+sam_menu = [
+    { text = "technology", link = "/tech" },
+    { text = "art", link = "/art" },
+    { text = "politics", link = "/politics" },
+    { text = "about", link = "/about" }
+    
+]
+
+sam_bottom_menu = true
+
+[extra.sam_footer]
+text = "Made with Zola. Theme is Sam"

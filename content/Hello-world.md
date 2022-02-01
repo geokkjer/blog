@@ -1,12 +1,16 @@
 +++
-title = "I like Linux and open source"
-weight = 2
+title = "Hello World!"
+date = 2021-01-12
+updated = 2022-01-15
+description = "First post :-)"
 
 [taxonomies]
-tags = ["linux", "hello"]
+tags = ["hello"]
 +++
 
-Hello World! Just teting some markdown tags.
+Hello World! This is the first post. Just testing some markdown tags.
+
+<!-- more -->
 
 [linux.com](https://www.linux.com/)
 
