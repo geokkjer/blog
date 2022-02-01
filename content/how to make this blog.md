@@ -1,6 +1,7 @@
 +++
 title = "Making this blog"
-weight = 1
+date = 2021-01-12
+updated = 2022-01-15
 
 [taxonomies]
 tags = ["zola", "git", "cloudflare", "cloud"]
@@ -25,7 +26,7 @@ Zola is fast and intergates very well with the hosting solution I choose to go w
 
 On Arch Linux:
 
-```Bash
+```sh
 pacman -S zola
 ```
 From their documentation [install Zola](https://www.getzola.org/documentation/getting-started/installation/)

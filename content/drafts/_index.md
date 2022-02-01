@@ -1,5 +1,4 @@
 +++
-title = "Technology"
-sort_by = "weight"
+render = false
 +++
-Thoughts on Kubernetes, DevOps and GitOps stuff. Mostly me preparing for the CKA.
+

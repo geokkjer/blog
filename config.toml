@@ -56,7 +56,7 @@ menu_items = [
     # see documentation below for more details
     {name = "tags", url = "$BASE_URL/tags"},
     {name = "archive", url = "$BASE_URL/archive"},
-    {name = "my stuff", url = "$BASE_URL/stuff"},
+    {name = "homelab", url = "$BASE_URL/homelab"},
     {name = "about me", url = "$BASE_URL/about"},
     
     # set newtab to true to make the link open in new tab
