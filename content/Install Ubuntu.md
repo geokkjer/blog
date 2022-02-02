@@ -21,9 +21,6 @@ The first thing we need is the OS, Ubuntu provides iso images of their OS freely
 Direct link to the iso file: [Ubuntu 20.04.3 iso](https://releases.ubuntu.com/20.04.3/ubuntu-20.04.3-desktop-amd64.iso)
 
 
-```sh
-wget https://download.opensuse.org/distribution/leap/15.3/iso/openSUSE-Leap-15.3-DVD-x86_64-Current.iso
-```
 
 # Making a bootable usb
 
