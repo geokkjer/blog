@@ -1,16 +1,16 @@
 +++
 title = "How to install Ubuntu"
 date = 2021-12-12
-updated = 2022-12-15
+updated = 2022-02-02
 description = "We are installing Ubuntu"
 [taxonomies]
-tags = ["how-to", "Linux", "ubuntu", "Fedora", "Suse", "beginner"]
+tags = ["how-to", "Linux", "Ubuntu", "beginner"]
 +++
 # Intro
 
-Hi, 
-If you courious about Linux, and have enough interest to seek out and read about installing it either on your machine or in a virtual machine. 
-You are in luck. The distribution that I'm covering in this guide is pretty easy to install. In fact the installer are substantially more user friendly than both macOS or Windows.
+Hi,
+ The distribution that I'm covering in this guide is pretty easy to install. In fact the installer are substantially more user friendly than both macOS or Windows.
+
 With that over and done, let's jump in and install Ubuntu.
 
 <!-- more -->
