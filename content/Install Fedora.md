@@ -60,4 +60,22 @@ Congratulations! All done with the install and ready to explore the wonderful wo
 
 Next post : [Installing Software with Flatpak](../flatpak) 
 
+Addendum: 
+
+Some housekeeping is in order. First you should run:
+
+```sh
+sudo dnf update
+```
+The longer time since the release the more packages are updated. As you can see below, on my install the first update amounts to 1236 updates and 1.1 G to download. This can take a while mostly depending on you download speed and cpu power.
+
+<img src="/img/install fedora/update.png" width="800">
+
+Next you can name your computer with the hostnamectl tool.
+
+```sh
+sudo hostnamectl hostname <your desired name>
+```
+
+
 
