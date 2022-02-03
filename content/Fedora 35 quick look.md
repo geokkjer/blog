@@ -1,11 +1,11 @@
 +++
-title = "Taking a look at Fedora 35"
+title = "Quick look at Fedora 35"
 date = 2022-01-31
 updated = 2022-02-01
 description = "Let's check out Fedora 35"
 
 [taxonomies]
-tags = ["how-to", "Linux", "Fedora", "beginner", "GNOME"]
+tags = ["how-to", "Linux", "Fedora", "beginner", "GNOME", "quick look"]
 +++
 
 Let's take a look at [Fedora Workstation 35](https://getfedora.org/). 

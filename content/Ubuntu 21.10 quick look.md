@@ -1,10 +1,10 @@
 +++
-title = "Let's take a look at Ubuntu 21.10"
+title = "Quick look at Ubuntu 21.10"
 date = 2022-02-02
 updated = 2022-02-02
 description = ""
 [taxonomies]
-tags = ["how-to", "Linux", "Ubuntu", "beginner", "look"]
+tags = ["how-to", "Linux", "Ubuntu", "beginner", "quick look"]
 +++
 
 # Let's take a look at Ubuntu 21.10
