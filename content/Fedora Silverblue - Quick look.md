@@ -1,5 +1,5 @@
 +++
-title = "Qucik look at Fedora Silverblue"
+title = "Quick look at Fedora Silverblue"
 date = 2022-01-28
 updated = 2022-02-02
 description = "Fedora Silverblue"

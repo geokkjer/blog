@@ -1,5 +1,5 @@
 +++
-title = "Qucik look at Knoppix"
+title = "Quick look at Knoppix"
 date = 2022-02-02
 updated = 2022-02-02
 description = ""
