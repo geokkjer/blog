@@ -1,30 +1,32 @@
 +++
-title = "How to install Ubuntu"
-date = 2021-12-12
+title = "Let's take a look at Ubuntu 21.10"
+date = 2022-02-02
 updated = 2022-02-02
-description = "We are installing Ubuntu"
+description = ""
 [taxonomies]
-tags = ["how-to", "Linux", "Ubuntu", "beginner"]
+tags = ["how-to", "Linux", "Ubuntu", "beginner", "look"]
 +++
-# Intro
 
-Hi,
- The distribution that I'm covering in this guide is pretty easy to install. In fact the installer are substantially more user friendly than both macOS or Windows.
+# Let's take a look at Ubuntu 21.10
 
-With that over and done, let's jump in and install Ubuntu.
+Ubuntu is one of the most popular Linux distributions. The first release was 08.04 back in 2008. It started as a project to make debian more user friendly. 
+Under Canonicals stewardship it has grown to be almost synonomous with Linux espescially on the desktop. Although there always were good alternatives, and recently there has been some serious contenders like Pop_OS, Manjaro Linux, Fedora and Open Suse Tumbleweed.
+
+
 
 <!-- more -->
 
 # Downloading the isos
 
 The first thing we need is the OS, Ubuntu provides iso images of their OS freely from their website. 
-Direct link to the iso file: [Ubuntu 20.04.3 iso](https://releases.ubuntu.com/20.04.3/ubuntu-20.04.3-desktop-amd64.iso)
-
-
+Head over to the Download page: [Ubuntu Download page](https://ubuntu.com/download/desktop)
 
 # Making a bootable usb
+First descision to be made, install to metal or virtual machine.
 
+etcher gnome disk or dd
 
-# The different graphical installers
+# Using virt-manager 
+
 
 # Conclusion

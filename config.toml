@@ -45,7 +45,7 @@ accent_color = "green"
 # Enabling dark background will also modify primary font color
 # to be darker.
 # Defaults to accent color (or, if not accent color specified, to blue). 
-background_color = "dark"
+background_color = "green"
 
 menu_items = [
     # each of these is optional, name and url are required

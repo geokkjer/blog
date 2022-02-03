@@ -1,6 +1,6 @@
 +++
 title = "Taking a look at Fedora 35"
-date = 2021-12-31
+date = 2022-01-31
 updated = 2022-02-01
 description = "Let's check out Fedora 35"
 
@@ -67,7 +67,7 @@ Some housekeeping is in order. First you should run:
 ```sh
 sudo dnf update
 ```
-The longer time since the release the more packages are updated. As you can see below, on my install the first update amounts to 1236 updates and 1.1 G to download. This can take a while mostly depending on you download speed and cpu power.
+The longer time since the release the more packages need to be updated. As you can see below, on my install the first update amounts to 1236 updates and 1.1G to download. This can take a while mostly depending on you download speed and cpu power.
 
 <img src="/img/install fedora/update.png" width="800">
 
