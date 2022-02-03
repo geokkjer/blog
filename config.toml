@@ -39,13 +39,13 @@ favicon_mimetype = "image/png"
 
 # One of: blue, green, orange, pink, red.
 # Defaults to blue. 
-accent_color = "green"
+accent_color = "orange"
 
 # One of: blue, dark, green, orange, pink, red.
 # Enabling dark background will also modify primary font color
 # to be darker.
 # Defaults to accent color (or, if not accent color specified, to blue). 
-background_color = "green"
+background_color = "orange"
 
 menu_items = [
     # each of these is optional, name and url are required
