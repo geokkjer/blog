@@ -7,7 +7,7 @@ description = ""
 tags = ["how-to", "Linux", "Knoppix", "beginner", "quick look"]
 +++
 
-# Let's tak a look at the Knoppix Linux distribution.
+# *Let's take a look at the Knoppix Linux distribution.*
 
 [Knoppix](https://www.knopper.net/knoppix/index-en.html)
 

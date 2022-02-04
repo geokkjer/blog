@@ -1,7 +1,7 @@
 +++
-title = "How to install NixOS"
-weight = 2
-
+title = "Quick look at NixOS"
+date = 2022-02-12
+updated = 2022-01-15
 [taxonomies]
 tags = ["how-to", "Linux", "Nix", "NixOS","intermediate"]
 +++

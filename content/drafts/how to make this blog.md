@@ -1,6 +1,6 @@
 +++
 title = "Making this blog"
-date = 2021-01-12
+date = 2022-01-12
 updated = 2022-01-15
 
 [taxonomies]
