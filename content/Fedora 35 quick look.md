@@ -12,7 +12,7 @@ tags = ["how-to", "Linux", "Fedora", "beginner", "GNOME", "quick look"]
 
 <!-- more -->
 
-Fedora is the upsteam distribution for Red Hat Enterprise Linux and as such is often released with the latest versions of many Linux projects, like GNOME and in this version the new sound subsystem PipeWire.
+Fedora is the upsteam distribution for [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) and as such is often released with the latest versions of many Linux projects, like GNOME and in this version the new sound subsystem PipeWire.
 
 It currently comes in five different editions.Fedora 35 was released on november 2 2021.
 The one we are taking a look at here is the workstation edition which is
