@@ -8,7 +8,7 @@ description = "Let's check out Fedora 35"
 tags = ["how-to", "Linux", "Fedora", "beginner", "GNOME", "quick look"]
 +++
 
-Let's take a look at [Fedora Workstation 35](https://getfedora.org/). 
+# Let's take a look at the install process for [Fedora Workstation 35](https://getfedora.org/). 
 
 <!-- more -->
 
