@@ -7,7 +7,7 @@ description = ""
 tags = ["how-to", "Linux", "Ubuntu", "beginner", "quick look", "GNOME"]
 +++
 
-# Let's take a look the intall process for  
+# Let's take a look the install process for  
 # [Ubuntu 21.10](https://releases.ubuntu.com/21.10/)
 
 Ubuntu is one of the most popular Linux distributions. The first release was 04.10 back in 2004. It started as a project to make debian more user friendly. They follow a six month release schedule with a long-term support release every two years. The current long-term release is the 20.04 version.

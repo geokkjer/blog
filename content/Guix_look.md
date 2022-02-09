@@ -7,5 +7,5 @@ description = ""
 tags = ["how-to", "Linux", "GNU", "Guix", "intermediate", "quick look", "i3"]
 +++
 
-# Let's take a look the intall process for  
-# [Guix]](https://guix.gnu.org)
+# Let's take a look the install process for 
+# [Guix](https://guix.gnu.org)
