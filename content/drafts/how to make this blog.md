@@ -1,7 +1,7 @@
 +++
 title = "Making this blog"
-date = 2022-01-12
-updated = 2022-01-15
+date = 2022-02-01
+updated = 2022-02-15
 
 [taxonomies]
 tags = ["zola", "git", "cloudflare", "cloud"]
