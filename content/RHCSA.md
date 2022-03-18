@@ -1,7 +1,7 @@
 +++
 title = "Red Hat Certified System Administrator"
-date = 2021-12-31
-updated = 2022-02-01
+date = 2022-03-18
+updated = 2022-03-18
 description = "RHCSA"
 [taxonomies]
 tags = ["Red Hat","RHCSA", "linux"]
