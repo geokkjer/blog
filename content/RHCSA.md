@@ -11,7 +11,7 @@ So I have decided to get certified, my picks are the Red Hat Certified System Ad
 
 Let's start from the beginning with the most fundamental one, the RHSCA. This cert ensures that the student knows how to preform basic Linux system admin tasks and some Red Hat specific stuff.
 
-<!--more-->
+<!-- more -->
 
 ### Introduction to Linux
 
