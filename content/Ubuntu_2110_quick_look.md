@@ -11,9 +11,9 @@ tags = ["how-to", "Linux", "Ubuntu", "beginner", "quick look", "GNOME"]
 # [Ubuntu 21.10](https://releases.ubuntu.com/21.10/)
 
 Ubuntu is one of the most popular Linux distributions. The first release was 04.10 back in 2004. It started as a project to make debian more user friendly. They follow a six month release schedule with a long-term support release every two years. The current long-term release is the 20.04 version.
-There is a lot of history and some philosphy around Ubuntu and if you want to know more please check aut their [About](https://ubuntu.com/about) page.
+There is a lot of history and some philosphy around Ubuntu and if you want to know more please check out the [About](https://ubuntu.com/about) page.
 Under Canonicals stewardship it has grown to be almost synonomous with Linux espescially on the desktop. 
-Although there always were good alternatives, and recently there has been some serious contenders like Pop_OS, Solus and Manjaro Linux. Even the classic distors like Fedora and Open Suse have been putting out some stellar releases.
+Although there always were good alternatives, and recently there has been some seriously good offerings from the likes of Pop_OS, Solus and Manjaro Linux. Even the classic distros like Fedora and Open Suse have been putting out some stellar releases.
 
 
 
@@ -34,7 +34,7 @@ One of the most popular is etcher, it is an electoron app and is availiable on t
 
 * [Etcher download](https://www.balena.io/etcher/)
 
-Etcher is very easy, just pick the isop, chose the drive and hits the "Flash!" button.
+Etcher is very easy, just pick the iso, chose the drive and hits the "Flash!" button.
 
 <img src="/img/ubuntu2110/etcher.png" width="600" class="center">
 
@@ -105,5 +105,5 @@ Go through the first login wizard.
 And of course update your system with :
  
 ```sh
-sudo apt update && sudo apt dist-upgrade -y
+sudo apt update && sudo apt dist-upgrade -y && sync
 ```

@@ -3,7 +3,7 @@ title = "Continous delivery"
 weight = 3
 
 [taxonomies]
-tags = ["k8s", "argocd", "CI/CD"]
+tags = ["k8s", "argocd", "CI/CD", "fleet"]
 +++
 
 # Intro
