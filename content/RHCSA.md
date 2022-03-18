@@ -9,15 +9,19 @@ tags = ["Red Hat","RHCSA", "linux"]
 
 So I have decided to get certified, my picks are the Red Hat Certified System Administrator(RHCSA), the Red Hat Cetrified Engineer(RHCE) and the Certified Kubernetes Administrator(CKA).
 
-Let's start from the beginning with the most fundamental one, the RHSCA. This cert ensures that the studen knows basic Linux system admin task and some Red Hat specific tech.
+Let's start from the beginning with the most fundamental one, the RHSCA. This cert ensures that the student knows how to preform basic Linux system admin tasks and some Red Hat specific stuff.
+
+<!--more-->
 
 ### Introduction to Linux
 
-Linux is a kernel, a monolithic kernel and not a micro kernel. It's purpose is to make computers harware usable. An operating System is a kernel plus a userland, such as GNU(Gnu is not Unix). Is linux about [choice](http://www.islinuxaboutchoice.com/).
+Linux is a kernel, a monolithic kernel and not a micro kernel. It's purpose is to make computers hardware usable. An operating System is a kernel plus a userland, such as GNU(Gnu is not Unix). Is linux about [choice](http://www.islinuxaboutchoice.com/).
 Linux kernel interacts directly with the hardware and provides low level services to upper layer components.
-A Linux distibution is sometimes a curated(read: configured) collection of software that is bundeled on top of, and along side, a Linux kernel. Sometimes it is not curated but the delivered either as build scrips or binary packages from upstream, we call this a meta-distribution. The Linux kernel is one of the biggest software projects that has ever existed, this is often attributed to the adoption of the GNU(GPL v2) lisence, which forces people and companies to collaborate and contribute their changes back upstream to the Linux kernel. The originator, and still, main maintainer of Linux is Linux Thorvalds. Some notable fetures of the Linux kernel is that is sort of reimplementation of UNIx and it follows the POSIX standard. Everthing in Linux is a file, a for the most part the UNIX philosphy of one program that does one task very well is the standard. They also have a strrict rule of never breaking userland .
+A Linux distibution is sometimes a curated(read: configured) collection of software that is bundeled on top of, and along side, a Linux kernel. Sometimes it is not curated but the delivered either as build scripts or binary packages from upstream, we call this a meta-distribution. The Linux kernel is one of the biggest software projects that has ever existed, this is often attributed to the adoption of the GNU(GPL v2) lisence, which forces people and companies to collaborate and contribute their changes back upstream to the Linux kernel. The originator, and still, main maintainer of Linux is Linux Thorvalds. Some notable fetures of the Linux kernel is that is sort of reimplementation of UNIX and it follows the POSIX standard. Everthing in Linux is a file, a for the most part the UNIX philosphy of one program that does one task very well is the standard. They(the kernel maintainers) also have a strrict rule of never breaking userland.
 
-Booting - bootloader - linuk kernel - pid1/systemd
+### Bootprocess
+
+Booting -> bootloader -> linuk kernel -> pid1/systemd - userland
 
 ### Directories
 Linux uses the [Filesystem Hierarchy Standars](https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html)
@@ -87,6 +91,7 @@ tree -d -L1 /
 
 ### Installation 
 in this case enterprise linux, [AlmaLinux 8](https://almalinux.org/) which is a bug by bug reproduction of the Red Hat Enterprise Linux.
+DD the iso to an usb stivk and boot, follow the graphical instructions. 
 
 ### Remote installation
 
@@ -141,5 +146,6 @@ A simple bash script.
 
 
 ### Sources 
-[Tech Arkit Youtube](https://www.youtube.com/watch?v=-wNfs5fRazI)
-[MyLinuxGig Youtube](https://www.youtube.com/watch?v=3Qo5_Is0VsY)
+* [Tech Arkit Youtube](https://www.youtube.com/watch?v=-wNfs5fRazI)
+* [MyLinuxGig Youtube](https://www.youtube.com/watch?v=3Qo5_Is0VsY)
+* [Udemy course by Imran Afzal](https://www.udemy.com/course/unofficial-linux-redhat-certified-system-administrator-rhcsa-8/)
