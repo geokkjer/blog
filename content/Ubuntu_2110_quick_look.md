@@ -105,5 +105,5 @@ Go through the first login wizard.
 And of course update your system with :
  
 ```sh
-sudo apt update && sudo apt dist-upgrade -y && sync
+sudo apt update && sudo apt dist-upgrade -y 
 ```
