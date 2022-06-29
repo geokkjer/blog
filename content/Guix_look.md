@@ -1,7 +1,7 @@
 +++
 title = "Quick look at GNU Guix 2022"
-date = 2022-02-09
-updated = 2022-02-15
+date = 2022-06-09
+updated = 2022-06-15
 description = ""
 [taxonomies]
 tags = ["how-to", "Linux", "GNU", "Guix", "intermediate", "quick look", "GNOME"]
