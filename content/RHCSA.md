@@ -202,11 +202,7 @@ chmod (+/- permissions ie x/r/w),()
 
 
 
-### Improving Command-line productivity
 
-
-We start the course by learning how to be more effective with the BASH shell.
-A simple bash script.
 
 
 ### Sources 
