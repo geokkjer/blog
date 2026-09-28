@@ -1,9 +1,0 @@
-[submodule "themes/terminimal"]
-	path = themes/terminimal
-	url = https://github.com/pawroman/zola-theme-terminimal.git
-[submodule "themes/sam"]
-	path = themes/sam
-	url = https://github.com/janbaudisch/zola-sam.git
-[submodule "themes/dose"]
-	path = themes/dose
-	url = https://github.com/oltdaniel/dose.git
